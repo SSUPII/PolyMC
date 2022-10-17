@@ -2,6 +2,12 @@
 Check out these forks:
 - https://github.com/PlaceholderMC/PlaceholderMC
 - https://github.com/fn2006/PollyMC
+- https://github.com/MultiMC/Launcher (The original project PolyMC was based on)
+
+Other launchers:
+- https://github.com/ATLauncher/ATLauncher
+- https://www.technicpack.net/download
+- https://www.minecraft.net/en-us/download
 
 <p align="center">
 <img src="./program_info/polymc-header-black.svg#gh-light-mode-only" alt="PolyMC logo" width="50%"/>
