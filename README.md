@@ -1,3 +1,8 @@
+**THIS IS A BACKUP REPOSITORY**
+Check out these forks:
+- https://github.com/PlaceholderMC/PlaceholderMC
+- https://github.com/fn2006/PollyMC
+
 <p align="center">
 <img src="./program_info/polymc-header-black.svg#gh-light-mode-only" alt="PolyMC logo" width="50%"/>
 <img src="./program_info/polymc-header.svg#gh-dark-mode-only" alt="PolyMC logo" width="50%"/>
