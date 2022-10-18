@@ -1,6 +1,6 @@
 **THIS IS A BACKUP REPOSITORY**
 Check out these forks:
-- https://github.com/PlaceholderMC/PlaceholderMC
+- https://github.com/PrismLauncher/PrismLauncher
 - https://github.com/fn2006/PollyMC
 - https://github.com/MultiMC/Launcher (The original project PolyMC was based on)
 
